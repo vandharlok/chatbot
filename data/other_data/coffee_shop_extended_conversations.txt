@@ -1,0 +1,90 @@
+Hi, welcome to Java Beans! What can I get started for you today?
+Could I have a medium espresso and a blueberry muffin, please?
+Sure thing! Anything else for you?
+That'll be all, thanks.
+Your total comes to $5.75. How would you like to pay?
+By card, please.
+Do you have a loyalty card with us?
+Yes, I do. Here it is.
+Great, you've earned a free drink on your next visit!
+Thanks! How long will the espresso take?
+It should be ready in just a couple of minutes.
+Can I get a name for the order?
+It's Alex.
+Thank you, Alex! We'll call your name when it's ready.
+Excuse me, do you have any dairy-free milk options?
+Yes, we offer almond, soy, and oat milk. Which one would you prefer?
+I'll go with oat milk, please.
+Can I add a shot of vanilla to that?
+Of course, would you like anything to eat as well?
+What's the soup of the day?
+Today we have tomato basil soup.
+I'll pass, just the coffee for me.
+Alright, your total is $4.50.
+Here's my card.
+You're all set. We'll call out your order when it's ready!
+Hey, I was wondering if you sell your coffee beans?
+Yes, we do! We have a selection of beans from Brazil, Ethiopia, and Colombia.
+Can you grind them for a French press?
+Absolutely, we can grind them however you like.
+I'll take a bag of the Ethiopian beans, then.
+Got it. Anything else for you today?
+That's it, thank you.
+Thank you for stopping by!
+Hi, can I use this table?
+Sure, all our seating is first come, first serve.
+Great, I'll just have a small black coffee for now.
+Would you like room for cream?
+No, thanks.
+Okay, your coffee will be right out.
+...
+Hey, I think I left my scarf here yesterday.
+Let me check our lost and found for you.
+We did find a scarf! What does it look like?
+It's red and has a pattern of small white dots.
+Yes, that's the one we found. Here you go!
+Thank you so much!
+No problem, glad we could help.
+Can I order a chai latte to go, please?
+Sure, what size would you like?
+A large, please.
+Would you like any add-ons, like an extra shot or flavor?
+No, just the chai latte.
+Your total is $3.95.
+...
+Is there Wi-Fi available here?
+Yes, the Wi-Fi password is on the wall next to the counter.
+Thank you!
+Can I have a glass of water?
+Certainly, I'll bring it right over.
+...
+What are your hours this weekend?
+We're open from 8 am to 8 pm on both Saturday and Sunday.
+Good to know, thanks!
+...
+Do you have any recommendations for something sweet?
+Our homemade chocolate chip cookies are very popular!
+I'll take one, please.
+...
+I'm looking for a gift. Do you sell gift cards?
+Yes, we do. You can load it with any amount you'd like.
+I'll do a $25 gift card, then.
+...
+I love the decor in here. Who designed it?
+Thank you! It was actually a collaboration between local artists.
+It's really unique and cozy.
+We're glad you like it!
+...
+Could I get this to-go, please?
+Sure, I'll pack it up for you.
+...
+I noticed you have a tip jar. Can I add a tip on my card?
+Yes, you can. How much would you like to add?
+Let's do a 20% tip.
+Thank you, that's very generous of you!
+You're welcome! Keep up the great work.
+...
+Do you offer any lunch specials?
+Yes, today we have a sandwich and soup combo for $9.99.
+Sounds good, I'll have that.
+Excellent choice!
