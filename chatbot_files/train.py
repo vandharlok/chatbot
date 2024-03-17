@@ -70,7 +70,7 @@ class ChatDataSet(Dataset):
     
 #hyperparameteres
 batch_size=8
-hidden_size=8
+hidden_size=32
 output_size=len(tags)
 input_size=len(X_train[0])
 learning_date=0.001
@@ -121,9 +121,9 @@ data= {
     'tags' : tags
 
 }
+
 FILE ='data.pth'
 torch.save(data,FILE)
 
 print(f'Training complete, file saved to {FILE}')
-
 

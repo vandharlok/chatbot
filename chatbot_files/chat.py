@@ -71,9 +71,6 @@ while True:
     softmax_probs = F.softmax(output, dim=1)
     prob = softmax_probs[0][predicted.item()]
 
-    # Print the predicted tag and its confidence
-    print(f"Predicted tag: {tag}, Confidence: {prob.item()}")
-
     # New code to print softmax scores for all tags
     print("Softmax scores for all tags:")
     for idx, (tag, score) in enumerate(zip(tags, softmax_probs[0])):
