@@ -1,4 +1,4 @@
-"""
+
 import json
 from nltk_utils import tokenize, stem,bag_of_words
 import numpy as np
@@ -179,6 +179,8 @@ torch.save(data,FILE)
 
 print(f'Training complete, file saved to {FILE}')
 
+
+
 """
 import json
 from nltk_utils import tokenize, stem, bag_of_words
@@ -320,3 +322,5 @@ FILE = 'data.pth'
 torch.save(data, FILE)
 
 print(f'Training complete, file saved to {FILE}')
+
+"""
