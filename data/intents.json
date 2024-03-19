@@ -1857,45 +1857,286 @@
         "Otimo pedido",
         "Otimo!! Seu pedido foi anotado!"
       ]
+    },{
+      "tag": "Adicional de alface",
+      "patterns": [
+        "Você poderia colocar um extra de alface para mim",
+        "Gostaria de adicionar mais alface no meu lanche",
+        "Será que dá para caprichar no alface? Quero bastante",
+        "Pode me trazer um pouco mais de alface? Adoro alface",
+        "Eu gostaria de pedir com adicional de alface",
+        "Seria ótimo se pudesse vir com uma quantidade extra de alface.",
+        "Quero meu sanduíche com bastante alface",
+        "Adoraria se meu prato viesse com mais alface ",
+        "Pode adicionar um extra de alface",
+        "Eu prefiro com mais alface, por favor",
+        "Com adicional de alface",
+        "Adicional de alface"
+
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de bacon",
+      "patterns": [
+        "Será que dá para acrescentar mais bacon? Eu realmente adoro bacon extra.",
+        "Poderia colocar um adicional de bacon no meu pedido",
+        "Quero um extra de bacon, por favor. Bacon nunca é demais!",
+        "Seria possível adicionar mais bacon? ",
+        "Eu gostaria de pedir com bacon extra.",
+        "Pode caprichar no bacon para mim? ",
+        "Adoraria ter mais bacon no meu lanche",
+        "Um adicional de bacon seria perfeito. ",
+        "Vocês podem colocar mais bacon? ",
+        "Gostaria de um extra de bacon no meu sanduíche",
+        "Com adicional de bacon",
+        "Adicional de bacon",
+        "Pode colocar bacon de adicional"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de batata palha",
+      "patterns": [
+        "Poderia adicionar mais batata palha? ",
+        "Quero um adicional de batata palha no meu lanche",
+        "Será que dá para colocar um extra de batata palha? ",
+        "Eu gostaria de mais batata palha por cima",
+        "Pode me trazer com um adicional de batata palha? ",
+        "Eu pagaria feliz por mais batata palha no meu pedido.",
+        "Seria possível ter uma porção extra de batata palha? ",
+        "Adoraria se pudesse vir com mais batata palha",
+        "Um extra de batata palha seria ótimo, vocês podem adicionar?",
+        "Gostaria do meu prato com um adicional de batata palha",
+        "Um adicional de batata palha",
+        "Adicional de batata palha"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de carne",
+      "patterns": [
+        "Será que vocês poderiam colocar um extra de carne bovina? ",
+        "Eu gostaria de um adicional de carne bovina no meu sanduíche",
+        "Pode adicionar mais carne? Quero um extra de carne bovina.",
+        "Queria mais carne bovina no meu lanche",
+        "Um adicional de carne bovina seria perfeito",
+        "Eu adoraria se meu lanche viesse com mais carne.",
+        "Seria ótimo ter um extra de carne bovina",
+        "Gostaria de pedir com um adicional de carne bovina",
+        "Poderiam colocar uma porção extra de carne no meu pedido?",
+        "Quero meu prato com mais carne bovina",
+        "Adicional de carne ",
+        "Adicional de carne bovina",
+        "Adiciona carne",
+        "Coloca um adicional de carne bovina",
+        "Pode adicionar uma carne bovina a mais"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de catupiry",
+      "patterns": [
+        "Você poderia colocar um extra de Catupiry no meu lanche",
+        "Gostaria de um adicional de Catupiry",
+        "Seria possível ter mais Catupiry no meu prato? ",
+        "Pode me trazer com um extra de Catupiry? ",
+        "Quero um adicional de Catupiry, por favor.",
+        "Adoraria se pudesse vir com mais Catupiry. ",
+        "Um adicional de Catupiry seria perfeito",
+        "Eu pago a mais pelo extra de Catupiry",
+        "Pode caprichar no Catupiry para mim? ",
+        "Seria ótimo se pudesse vir com um extra de Catupiry",
+        "Adiciona catupiry",
+        "Um adicional de catupiry",
+        "Pode adicionar catupiry"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de cheddar",
+      "patterns": [
+        "Poderia adicionar mais Cheddar? ",
+        "Gostaria de um adicional de Cheddar no meu sanduíche.",
+        "Seria possível colocar um extra de Cheddar?",
+        "Eu adoraria mais Cheddar no meu lanche",
+        "Pode me trazer com mais Cheddar?",
+        "Um extra de Cheddar, por favor. ",
+        "Quero meu pedido com adicional de Cheddar",
+        "Será que dá para caprichar no Cheddar? ",
+        "Adoraria se meu pedido viesse com mais Cheddar.",
+        "Pode adicionar um extra de Cheddar?",
+        "Adicional de cheddar",
+        "Pode colocar um adicional de cheddar",
+        "Adiciona mais cheddar"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de cheddar",
+      "patterns": [
+        "Eu gostaria de adicionar mais frango ao meu prato",
+        "Será que vocês podem colocar um extra de frango? ",
+        "Quero um adicional de frango, por favor.",
+        "Pode me trazer com um adicional de frango? ",
+        "Eu adoraria se pudesse vir com mais frango.",
+        "Um extra de frango seria perfeito.",
+        "Gostaria de mais frango no meu lanche",
+        "Seria ótimo se meu pedido viesse com um adicional de frango.",
+        "Pode adicionar mais frango?",
+        "Eu pagaria feliz por um adicional de frango no meu pedido.",
+        "Pode colocar um adicional de frango",
+        "Adicional de frango"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de ovo",
+      "patterns": [
+        "Por favor, acrescente um ovo frito ao meu sanduíche.",
+        "Gostaria de adicionar um ovo frito extra à minha refeição",
+        "Posso pedir um adicional de ovo frito para o meu prato?",
+        "Por favor, inclua um ovo frito como extra no meu pedido.",
+        "Seria possível adicionar um ovo frito ao meu hambúrguer?",
+        "poderia adicionar um ovo frito?",
+        "Gostaria de adicionar um ovo frito ",
+        "Posso ter um adicional de ovo frito",
+        "Posso adicionar um ovo frito ao meu pedido ",
+        "Gostaria de incluir um ovo frito extra.",
+        "Um adicional de ovo frito",
+        "Adicional de ovo frito"
+      ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },{
+      "tag": "Adicional de presunto",
+      "patterns": [
+        "Acrescente presunto extra ao meu sanduíche.",
+        "Gostaria de adicionar presunto adicional à minha pizza,",
+        "Posso pedir um adicional de presunto?",
+        "Inclua presunto extra como complemento.",
+        "Seria possível adicionar presunto ao meu prato principal?",
+        "Poderia adicionar presunto extra?",
+        "Gostaria de adicionar presunto ao meu sanduíche como um extra.",
+        "Posso ter um adicional de presunto ",
+        "Posso adicionar presunto ao meu pedido como complemento?",
+        "Para o meu prato, gostaria de incluir presunto extra",
+        "Adicional de presunto",
+        "Adiciona presunto no"
+        ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },{
+      "tag": "Adicional de queijo",
+      "patterns": [
+        "Por favor, acrescente queijo extra ao meu sanduíche.",
+        "Gostaria de adicionar queijo adicional",
+        "Posso pedir um adicional de queijo para o meu crepe?",
+        "Por favor, inclua queijo extra como complemento",
+        "Seria possível adicionar queijo ao meu prato principal?",
+        "poderia adicionar queijo extra?",
+        "Gostaria de adicionar queijo ao meu",
+        "Por favor, posso ter um adicional de queijo para o meu café da manhã?",
+        "Posso adicionar queijo ao meu pedido ",
+        "Para o meu prato, gostaria de incluir queijo extra"
+        ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de queijo",
+      "patterns": [
+        "Por favor, adicione algumas salsichas ",
+        "Gostaria de incluir salsichas extras ",
+        "Posso pedir um adicional de salsicha",
+        "inclua salsichas adicionais como complemento",
+        "Seria possível adicionar salsichas",
+        "poderia adicionar salsichas extras?",
+        "Gostaria de adicionar salsichas ao meu sanduíche ",
+        "Por favor, posso ter um adicional de salsicha",
+        "Posso adicionar salsichas ao meu pedido como complemento?",
+        "Para o meu prato, gostaria de incluir salsichas extra, por favor.",
+        "Um adicional de salsicha",
+        "Adiciona salsicha"
+
+        ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
+    },
+    {
+      "tag": "Adicional de tomate",
+      "patterns": [
+        "acrescente tomate extra ao meu sanduíche.",
+        "Gostaria de adicionar mais tomate ",
+        "Posso pedir um adicional de tomate?",
+        "inclua tomate extra como complemento para o meu wrap.",
+        "Seria possível adicionar tomate ao meu hambúrguer?",
+        "poderia adicionar tomate extra?",
+        "Gostaria de adicionar tomate ao meu sanduíche como um extra.",
+        "posso ter um adicional de tomate para o meu café da manhã?",
+        "Posso adicionar tomate ao meu pedido como complemento?",
+        "gostaria de incluir tomate extra",
+        "Um adicional de tomate",
+        "Adiciona tomate"
+
+        ],
+      "responses": [
+        "Perfeito!!!",
+        "Otimo pedido",
+        "Otimo!! Seu pedido foi anotado!"
+      ]
     }
 
 
 
 
 
-    
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-    
-
-
-
-
-
-    
         
           ]
         }
